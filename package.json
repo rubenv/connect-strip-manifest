@@ -1,6 +1,6 @@
 {
   "name": "connect-strip-manifest",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Remove html5 app cache through connect middleware.",
   "main": "index.js",
   "scripts": {
