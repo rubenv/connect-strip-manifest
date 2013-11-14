@@ -27,5 +27,8 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/rubenv/connect-strip-manifest.git"
+  },
+  "dependencies": {
+    "connect-body-rewrite": "0.0.1"
   }
 }
